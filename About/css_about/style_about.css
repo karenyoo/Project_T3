@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html{
+	background-color: #000000;
+}
+
+body{
+	padding: 0;
+	margin: 0;
+	background-color:#000000;
+}
+
+html,h1,h2,h3,h4,h5,h6,a{
+	font-family: "Raleway";
+}
+.navbar{
+	background:#000000;
+}
+.nav-link , .navbar-brand{
+	color: #f4f4f4;
+	cursor: pointer;
+}
+.nav-link{
+	margin-right: 1em !important;
+}
+.nav-link:hover{
+	background: #f4f4f4;
+	color: #f97300;
+
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+
+
+
+.about{
+	/*margin: 1em 0;*/
+	padding: 2em;
+	position: relative;
+	background-color: rgba(0,0,0,0.2);
+}
+.about h1 {
+	color:#F97300;
+	margin: 1em;
+}
+.about img{
+	height: 100%;
+    width: 100%;
+    border-radius: 50%
+}
+.about span{
+	display: block;
+	color: #888;
+	position: absolute;
+	left: 115px;
+
+}
+.about .desc{
+	border-left:4px solid #10828C;
+}
+.about .desc h3, h4{
+	color: #10828C;
+}
+.about .desc p{
+	line-height:2;
+	color:#888;
+}
+
+
+
+.team{
+	/*margin: 4em 0;*/
+	position: relative;
+	background-color: #000000;
+
+}
+.team h1{
+	color:#F97300;
+	/*margin: 2em;*/	
+}
+.team .item{
+	position: relative;
+	overflow: hidden;	
+}
+.team .des{
+	background: #F97300;
+	color: #fff;
+	text-align: center;
+	border-top-right-radius: 93%;
+	transition:.3s ease-in-out;
+	position: absolute;
+	width: 88%;
+	bottom: 24px;
+}
+
+
+.team .item:hover .des{
+	height: 100%;
+	background:#f973007d;
+    position: absolute;
+	width: 95%;
+	padding: 1em;
+	top: 0;
+	border-top-right-radius: 0;
+}
+
+
