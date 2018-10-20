@@ -2,6 +2,8 @@
 
 Boba's Journey
 
+(Link to website: https://karenyoo.github.io/Project_T3/)
+
 Team Members: Tammy Wang Karen Yoo Nay Mintin
 
 Topic: Growth of Boba and Immigration in the Bay Area? Proposal Question: Does the growth of boba shops in the Bay Area reflect any patterns in immigration from the countries that originated boba (Taiwan? Hong Kong? Korea?)? Sub Questions: Do we see a growth in immigration from the countries that originated boba/bubble tea? What boba chains are most popular in the Bay Area vs. rest of US? Compared the the store growth trend with the area with high and low immigrants population.
